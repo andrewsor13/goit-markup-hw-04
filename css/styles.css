@@ -213,7 +213,7 @@ h2 {
   justify-content: center;
   flex-direction: column;
   width: 100%;
-  background: linear-gradient(rgba(0, 0, 0, 0.60), rgba(0, 0, 0, 0.60)), url(./images/people_at_desk.jpg)
+  background: linear-gradient(rgba(0, 0, 0, 0.60), rgba(0, 0, 0, 0.60)), url(./images/people_at_desk.jpg);
 }
 
 .hero-section h1 {
