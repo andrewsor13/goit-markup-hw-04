@@ -408,6 +408,7 @@ h2 {
 
 .customers-icon:hover {
   border: 1px solid var(--logo-color);
+  fill: var(--logo-color);
 }
 
 .customers-icon svg {
