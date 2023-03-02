@@ -58,6 +58,10 @@ h2 {
   fill: #757575;
 }
 
+.navigation-item svg:hover {
+  fill: var(--logo-color);
+}
+
 .navigation-list .navigation-elements {
   letter-spacing: 0.02em;
   color: var(--main-text-color);
@@ -403,15 +407,14 @@ h2 {
 }
 
 .customers-icon svg {
-  fill: currentColor;
+  fill: #afb1b8;
 }
 
 .customers-icon:hover {
   border: 1px solid var(--logo-color);
-  fill: var(--logo-color);
 }
 
-.customers-icon svg {
+.customers-icon svg:hover {
   fill: var(--logo-color);
 }
 
